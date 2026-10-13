@@ -6,7 +6,7 @@ I am on a journey to become a Professional Flutter Developer.
 
 ### 🙋‍♂️ About Me
 
-- 💻 Working on: [flutter-and-dart-journey](https://github.com/sananahmadkhan29/flutter-and-dart-journey
+- 💻 Working on: [flutter-and-dart-journey](https://github.com/sananahmadkhan29/flutter-and-dart-journey)
 - 📚 Learning: Flutter & Dart Language.
 - 🎯 Goal: Professional Flutter App Developer
 - 🌍 Based in: Bajaur, Pakistan
