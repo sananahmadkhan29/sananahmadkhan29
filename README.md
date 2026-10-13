@@ -1,6 +1,6 @@
  # Hi, I'm Sanan Ahmad Khan 👋
 
-### Flutter Developer | CS Student from Bajaur, PK
+### Flutter Developer | CS Student from Bajaur, Pakistan
 
 I am on a journey to become a Professional Flutter Developer.
 
