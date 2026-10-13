@@ -11,7 +11,11 @@ I am on a journey to become a Professional Flutter Developer.
 - 📍 Based in Bajaur, Pakistan.
 
 ### 🛠️ Tech Stack
-Dart | Flutter | Git | GitHub
+ ### 🛠️ Tech Stack
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📚 My Repo
 👉 flutter-and-dart-journey - My daily learning progress
