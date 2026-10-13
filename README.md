@@ -18,4 +18,4 @@ I am on a journey to become a Professional Flutter Developer.
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📂 My Repo
-👉 flutter-and-dart-journey - My daily learning progress
+ - 👉 [flutter-and-dart-journey](https://github.com/sananahmadkhan29/flutter-and-dart-journey) - My daily learning progress
