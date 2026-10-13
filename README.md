@@ -8,7 +8,7 @@ I am on a journey to become a Professional Flutter Developer.
 
 - 💻 Working on: flutter-and-dart-journey
 - 📚 Learning: Flutter & Dart Language.
-- 🚀 Goal: Professional Flutter App Developer
+- 🎯 Goal: Professional Flutter App Developer
 - 🌍 Based in: Bajaur, Pakistan
 
 ### 🛠️ Tech Stack
